@@ -19,5 +19,11 @@ namespace _07_Identity.Models
             builder.ApplyConfiguration(new AdminConfiguration());
             builder.ApplyConfiguration(new UserWithRoleConfiguration());
         }
+
+
+
+
+
+
     }
 }

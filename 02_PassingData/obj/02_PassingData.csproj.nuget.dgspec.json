@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj",
         "projectName": "02_PassingData",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\02_PassingData.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\02_PassingData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

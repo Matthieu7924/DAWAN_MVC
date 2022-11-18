@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj",
         "projectName": "Validations",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\05_Validations.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\05_Validations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

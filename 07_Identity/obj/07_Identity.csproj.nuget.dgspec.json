@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj",
         "projectName": "07_Identity",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\07_Identity.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\07_Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             }
           },
           "imports": [

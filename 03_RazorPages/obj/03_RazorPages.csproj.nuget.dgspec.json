@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj",
         "projectName": "03_RazorPages",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\03_RazorPages.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\ASP_MVC_DAWAN_ORIGINAL\\03_RazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
